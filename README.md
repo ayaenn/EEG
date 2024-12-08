@@ -4,10 +4,11 @@ This project focuses on predicting Alzheimer's disease, Frontotemporal Dementia 
 
 
 
-## Dataset
+## Dataset   
+https://openneuro.org/datasets/ds004504/versions/1.0.7
 
-- **EEG Signals Directory**: `/Users/pro/Desktop/ds004504-1.0.7/derivatives`
-- **Participants Information**: `/Users/pro/Desktop/ds004504-1.0.7/participants.tsv`
+- **EEG Signals Directory**: `ds004504-1.0.7/derivatives`
+- **Participants Information**: `ds004504-1.0.7/participants.tsv`
 - **Electrodes Used**: 19 scalp electrodes.
 
 The dataset includes EEG recordings and metadata for participants with Alzheimer's, FTD, and normal conditions.
