@@ -15,18 +15,20 @@ The dataset includes EEG recordings and metadata for participants with Alzheimer
 
 ## Visualizations
 
+### Types of Diseases Studied
+
+<img width="910" alt="Screenshot 2024-12-08 at 15 36 41" src="https://github.com/user-attachments/assets/fa464e6e-513d-4d35-a358-481ffd536f9c">
+
 ### Participant Distribution by Age
 
-![image](https://github.com/user-attachments/assets/46099dd5-7ef6-47c6-9f0d-81feac9f0948)
+<img width="535" alt="Screenshot 2024-12-08 at 15 42 43" src="https://github.com/user-attachments/assets/a4748d2b-f497-4a18-b2aa-5b3234bd0a51">
+
 
 
 ### Participant Distribution by Group
 ![image](https://github.com/user-attachments/assets/bba414d7-2caa-43aa-a8cb-42c7df36fdf4)
 
 
-### Types of Diseases Studied
-
-<img width="910" alt="Screenshot 2024-12-08 at 15 36 41" src="https://github.com/user-attachments/assets/fa464e6e-513d-4d35-a358-481ffd536f9c">
 
 
 ## Project Objectives
