@@ -22,7 +22,7 @@ The dataset includes EEG recordings and metadata for participants with Alzheimer
 
 ### Participant Distribution by Age
 
-<img width="535" alt="Screenshot 2024-12-08 at 15 42 43" src="https://github.com/user-attachments/assets/a4748d2b-f497-4a18-b2aa-5b3234bd0a51">
+![image](https://github.com/user-attachments/assets/a2de9741-cbc8-4b6d-832c-85bd75ce2271)
 
 
 
